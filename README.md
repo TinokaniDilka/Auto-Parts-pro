@@ -1,18 +1,18 @@
-<<<<<<< HEAD
+
 # AutoParts Pro - Vehicle Spare Parts Management System
 
 A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for managing vehicle spare parts, services, and customer operations.
 
 ## Team Members & Modules
 
-| Module | Responsible | Student ID |
-|--------|-------------|------------|
-| Order and Delivery Management | Dilka K.B.T | IT24101143 |
-| Feedback and Warranty Management | Ramanayaka R A S S | IT24103406 |
-| Supplier Management | Maryshalini. A | IT24100683 |
-| Spare Parts/Product Management | Deshan S.M.K | IT24104190 |
-| Service and Booking Management | Disanayaka K.G.G.S | IT24102031 |
-| Stocks and Inventory Management | Jayakody J.A.K.S.S | IT24100778 |
+| Module |
+|--------|
+| Order and Delivery Management
+| Feedback and Warranty Management
+| Supplier Management 
+| Spare Parts/Product Management
+| Service and Booking Management 
+| Stocks and Inventory Management
 
 ## Features
 
@@ -241,4 +241,4 @@ db.users.updateOne(
 =======
 # Auto-Parts-pro
 A complete web application for managing vehicle spare parts, inventory, customer records, and service appointments.
->>>>>>> 913f00720bc7952d7cfef6f01e4c99b20ef4ed22
+
