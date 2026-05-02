@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutoParts Pro - Vehicle Spare Parts Management System
 
 A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for managing vehicle spare parts, services, and customer operations.
@@ -237,3 +238,7 @@ db.users.updateOne(
 ## Discount Codes (for testing)
 - `SAVE10` - 10% discount
 - `SAVE20` - 20% discount
+=======
+# Auto-Parts-pro
+A complete web application for managing vehicle spare parts, inventory, customer records, and service appointments.
+>>>>>>> 913f00720bc7952d7cfef6f01e4c99b20ef4ed22
