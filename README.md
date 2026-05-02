@@ -238,7 +238,7 @@ db.users.updateOne(
 ## Discount Codes (for testing)
 - `SAVE10` - 10% discount
 - `SAVE20` - 20% discount
-=======
+
 # Auto-Parts-pro
 A complete web application for managing vehicle spare parts, inventory, customer records, and service appointments.
 
