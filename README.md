@@ -16,76 +16,74 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for mana
 ## 3. Customer Dashboard
 <img width="1794" height="830" alt="image" src="https://github.com/user-attachments/assets/566996ef-14ce-474c-9164-c7d3c1796d2e" />
 
-## Products
+### Products
 <img width="1809" height="916" alt="image" src="https://github.com/user-attachments/assets/f7379c3c-2bae-4944-bbf0-75b1dc927b6f" />
 <img width="1819" height="852" alt="image" src="https://github.com/user-attachments/assets/b6a91407-2996-4775-a0f2-85219054defc" />
 <img width="1800" height="885" alt="image" src="https://github.com/user-attachments/assets/c7c2862e-8976-4b7d-8c79-86bf290474fa" />
 <img width="1766" height="867" alt="image" src="https://github.com/user-attachments/assets/0b5cee3e-0390-44d8-beb4-3998ba05c6ca" />
 
-## Services
+### Services
 <img width="1824" height="902" alt="image" src="https://github.com/user-attachments/assets/c794d486-9b9b-49aa-a130-1a2269634c2d" />
 <img width="1790" height="857" alt="image" src="https://github.com/user-attachments/assets/48655074-935d-456f-9239-c276cef0c987" />
 <img width="1779" height="730" alt="image" src="https://github.com/user-attachments/assets/1f76685a-0bff-4509-8a89-d85620ecf493" />
 <img width="1793" height="728" alt="image" src="https://github.com/user-attachments/assets/b1458fc3-c354-4c66-8baa-4e3c0f0a783a" />
 
-## My Orders
+### My Orders
 <img width="1805" height="887" alt="image" src="https://github.com/user-attachments/assets/d7f69246-3719-4818-835c-1b3c7512702c" />
 <img width="1647" height="837" alt="image" src="https://github.com/user-attachments/assets/940eb02a-731f-41e1-8991-d8ac4f58c036" />
 <img width="1720" height="818" alt="image" src="https://github.com/user-attachments/assets/68f23884-f5f4-43e9-a8a5-75521f6e094a" />
 
-## checkout
+### checkout
 <img width="1704" height="886" alt="image" src="https://github.com/user-attachments/assets/b3025980-7df8-4b89-a0f1-01a733a7bdc6" />
 <img width="1740" height="896" alt="image" src="https://github.com/user-attachments/assets/e8710dab-8c41-4fb2-b630-fb06e5e24fe8" />
 
-## Delivery 
+### Delivery 
 <img width="1727" height="906" alt="image" src="https://github.com/user-attachments/assets/f6b1aa3a-a78c-47dc-81d0-074a322f0bb3" />
 <img width="1685" height="428" alt="image" src="https://github.com/user-attachments/assets/795f3689-3733-4202-bd75-0d3e85b87db3" />
 
-## Order History
+### Order History
 <img width="1730" height="699" alt="image" src="https://github.com/user-attachments/assets/9fdd7ddb-f699-4ca3-86a4-11f76f3f1579" />
 
-## My Bookings
+### My Bookings
 <img width="1773" height="840" alt="image" src="https://github.com/user-attachments/assets/c53829c3-1d97-464d-9523-e355de708dbd" />
 
-## My Wishlist
+### My Wishlist
 <img width="1751" height="861" alt="image" src="https://github.com/user-attachments/assets/e62d21a6-addb-45d9-9514-1a4faa34e710" />
 
 ## 4. Admin dashboard
 <img width="1768" height="864" alt="image" src="https://github.com/user-attachments/assets/0795f941-b98a-45e3-9c0a-82981fb5aed9" />
 <img width="1693" height="549" alt="image" src="https://github.com/user-attachments/assets/103ea668-817c-44d4-a266-a23e51aa2df5" />
-## Manage Products
+
+### Manage Products
 <img width="1868" height="895" alt="image" src="https://github.com/user-attachments/assets/c95d3f77-c246-4261-8982-13ccd65182ad" />
 
-## Invenory Manegement
+### Invenory Manegement
 <img width="1801" height="776" alt="image" src="https://github.com/user-attachments/assets/9ee53c0e-6172-4759-8619-9c82d6dc3fc9" />
 <img width="1719" height="813" alt="image" src="https://github.com/user-attachments/assets/d394faa0-486b-4466-8826-13da30e90439" />
 <img width="1733" height="878" alt="image" src="https://github.com/user-attachments/assets/c7b9c81b-9f60-4ffd-b305-2209f75e573d" />
 <img width="1778" height="807" alt="image" src="https://github.com/user-attachments/assets/6324ee4f-465e-4676-99cf-b966b3c23df3" />
 
-## Supplier Management
+### Supplier Management
 <img width="1777" height="808" alt="image" src="https://github.com/user-attachments/assets/6a3be438-02cb-4936-b508-2b5985818c93" />
 <img width="1608" height="819" alt="image" src="https://github.com/user-attachments/assets/0061271a-034d-4f16-afcb-558115d30923" />
 <img width="1648" height="510" alt="image" src="https://github.com/user-attachments/assets/70bd6b6c-acc4-46db-a62b-0cab46e91d55" />
 
-## Services 
+### Booking and Services Management
 <img width="1791" height="659" alt="image" src="https://github.com/user-attachments/assets/c49df0d4-ce51-4fe6-a540-57e2b87ba5cb" />
 <img width="1740" height="876" alt="image" src="https://github.com/user-attachments/assets/7835ca71-f0ec-492d-8229-9c04c99e33c0" />
 <img width="1645" height="450" alt="image" src="https://github.com/user-attachments/assets/43efb548-d5a1-4396-9fc0-ac6e7931613c" />
 
-## Delivery Management
+### Delivery Management
 <img width="1893" height="727" alt="image" src="https://github.com/user-attachments/assets/cb4fc711-1440-4893-a0b6-b66a20da2020" />
 
-## Warranty Clamis
+### Warranty Clamis
 <img width="1738" height="812" alt="image" src="https://github.com/user-attachments/assets/a3755bad-573d-4f68-9243-086b0560d445" />
 
+### Order Mangement
 <img width="1711" height="837" alt="image" src="https://github.com/user-attachments/assets/5d904572-6fae-4233-b732-c26996aafe94" />
 
-## Delivery Dashboard
+## 5. Delivery Dashboard
 <img width="1775" height="832" alt="image" src="https://github.com/user-attachments/assets/9e705543-7bde-41c7-b78e-a90b70dcc501" />
-
-
-
-
 
 ## Modules
 
