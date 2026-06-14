@@ -69,9 +69,19 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for mana
 
 ## Services 
 <img width="1791" height="659" alt="image" src="https://github.com/user-attachments/assets/c49df0d4-ce51-4fe6-a540-57e2b87ba5cb" />
-<img width="844" height="789" alt="image" src="https://github.com/user-attachments/assets/15036c6d-d702-44fa-843e-1fcddcad8f32" />
-<img width="837" height="415" alt="image" src="https://github.com/user-attachments/assets/3ec2fae2-022a-4cc1-a63a-5f77e4d2f605" />
+<img width="1740" height="876" alt="image" src="https://github.com/user-attachments/assets/7835ca71-f0ec-492d-8229-9c04c99e33c0" />
+<img width="1645" height="450" alt="image" src="https://github.com/user-attachments/assets/43efb548-d5a1-4396-9fc0-ac6e7931613c" />
 
+## Delivery Management
+<img width="1893" height="727" alt="image" src="https://github.com/user-attachments/assets/cb4fc711-1440-4893-a0b6-b66a20da2020" />
+
+## Warranty Clamis
+<img width="1738" height="812" alt="image" src="https://github.com/user-attachments/assets/a3755bad-573d-4f68-9243-086b0560d445" />
+
+<img width="1711" height="837" alt="image" src="https://github.com/user-attachments/assets/5d904572-6fae-4233-b732-c26996aafe94" />
+
+## Delivery Dashboard
+<img width="1775" height="832" alt="image" src="https://github.com/user-attachments/assets/9e705543-7bde-41c7-b78e-a90b70dcc501" />
 
 
 
