@@ -15,6 +15,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for mana
 
 ## 3. Customer Dashboard
 <img width="1794" height="830" alt="image" src="https://github.com/user-attachments/assets/566996ef-14ce-474c-9164-c7d3c1796d2e" />
+
 ## Products
 <img width="1809" height="916" alt="image" src="https://github.com/user-attachments/assets/f7379c3c-2bae-4944-bbf0-75b1dc927b6f" />
 <img width="1819" height="852" alt="image" src="https://github.com/user-attachments/assets/b6a91407-2996-4775-a0f2-85219054defc" />
@@ -23,13 +24,13 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for mana
 
 ## Services
 <img width="1824" height="902" alt="image" src="https://github.com/user-attachments/assets/c794d486-9b9b-49aa-a130-1a2269634c2d" />
-<img width="1790" height="857" alt="image" src="https://github.com/user-attachments/assets/f829dcd8-a711-45c0-9357-86b93678bd62" />
 <img width="1790" height="857" alt="image" src="https://github.com/user-attachments/assets/48655074-935d-456f-9239-c276cef0c987" />
 <img width="1779" height="730" alt="image" src="https://github.com/user-attachments/assets/1f76685a-0bff-4509-8a89-d85620ecf493" />
 <img width="1793" height="728" alt="image" src="https://github.com/user-attachments/assets/b1458fc3-c354-4c66-8baa-4e3c0f0a783a" />
 
 ## My Orders
-<img width="1751" height="861" alt="image" src="https://github.com/user-attachments/assets/06c36fa1-1d13-4090-8882-ff9060bf729a" />
+<img width="1805" height="887" alt="image" src="https://github.com/user-attachments/assets/d7f69246-3719-4818-835c-1b3c7512702c" />
+
 ## Order History
 <img width="1730" height="699" alt="image" src="https://github.com/user-attachments/assets/9fdd7ddb-f699-4ca3-86a4-11f76f3f1579" />
 
