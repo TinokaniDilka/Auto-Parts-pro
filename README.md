@@ -1,4 +1,4 @@
-<img width="1790" height="857" alt="image" src="https://github.com/user-attachments/assets/f829dcd8-a711-45c0-9357-86b93678bd62" />
+
 # AutoParts Pro - Vehicle Spare Parts Management System
 
 A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for managing vehicle spare parts, services, and customer operations.
@@ -23,6 +23,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for mana
 
 ## Services
 <img width="1824" height="902" alt="image" src="https://github.com/user-attachments/assets/c794d486-9b9b-49aa-a130-1a2269634c2d" />
+<img width="1790" height="857" alt="image" src="https://github.com/user-attachments/assets/f829dcd8-a711-45c0-9357-86b93678bd62" />
 <img width="1790" height="857" alt="image" src="https://github.com/user-attachments/assets/48655074-935d-456f-9239-c276cef0c987" />
 <img width="1779" height="730" alt="image" src="https://github.com/user-attachments/assets/1f76685a-0bff-4509-8a89-d85620ecf493" />
 <img width="1793" height="728" alt="image" src="https://github.com/user-attachments/assets/b1458fc3-c354-4c66-8baa-4e3c0f0a783a" />
