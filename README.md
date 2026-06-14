@@ -9,8 +9,18 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for mana
 ## 1. Sign Up Page
 <img width="1882" height="869" alt="image" src="https://github.com/user-attachments/assets/cbdd87a4-7a62-4892-8cbd-f30eee11e31f" />
 <img width="1834" height="834" alt="image" src="https://github.com/user-attachments/assets/f8bfeb60-2cb6-4be0-b0b7-3e162c7cd1aa" />
+
 ## 2. Login Page
 <img width="1804" height="872" alt="image" src="https://github.com/user-attachments/assets/9682ceaa-4fcf-411b-9fc0-fdca79237930" />
+
+## 3. Customer Dashboard
+<img width="1794" height="830" alt="image" src="https://github.com/user-attachments/assets/566996ef-14ce-474c-9164-c7d3c1796d2e" />
+## Products
+<img width="1809" height="916" alt="image" src="https://github.com/user-attachments/assets/f7379c3c-2bae-4944-bbf0-75b1dc927b6f" />
+<img width="1819" height="852" alt="image" src="https://github.com/user-attachments/assets/b6a91407-2996-4775-a0f2-85219054defc" />
+<img width="1800" height="885" alt="image" src="https://github.com/user-attachments/assets/c7c2862e-8976-4b7d-8c79-86bf290474fa" />
+<img width="1766" height="867" alt="image" src="https://github.com/user-attachments/assets/0b5cee3e-0390-44d8-beb4-3998ba05c6ca" />
+
 
 ## Modules
 
