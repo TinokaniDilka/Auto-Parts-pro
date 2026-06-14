@@ -3,7 +3,13 @@
 
 A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for managing vehicle spare parts, services, and customer operations.
 
-## Team Members & Modules
+## Screenshots
+<img width="1789" height="837" alt="image" src="https://github.com/user-attachments/assets/cb31e1bb-f300-4219-8c11-eb19458f73b5" />
+### 1. Sign Up Page
+<img src="https://github.com/user-attachments/assets/cbdd87a4-7a62-4892-8cbd-f30eee11e31f" width="70%" />
+<img src="https://github.com/user-attachments/assets/f8bfeb60-2cb6-4be0-b0b7-3e162c7cd1aa" width="70%" />
+
+## Modules
 
 | Module |
 |--------|
