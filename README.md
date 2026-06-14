@@ -30,6 +30,16 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for mana
 
 ## My Orders
 <img width="1805" height="887" alt="image" src="https://github.com/user-attachments/assets/d7f69246-3719-4818-835c-1b3c7512702c" />
+<img width="1647" height="837" alt="image" src="https://github.com/user-attachments/assets/940eb02a-731f-41e1-8991-d8ac4f58c036" />
+<img width="1720" height="818" alt="image" src="https://github.com/user-attachments/assets/68f23884-f5f4-43e9-a8a5-75521f6e094a" />
+
+## checkout
+<img width="1704" height="886" alt="image" src="https://github.com/user-attachments/assets/b3025980-7df8-4b89-a0f1-01a733a7bdc6" />
+<img width="1740" height="896" alt="image" src="https://github.com/user-attachments/assets/e8710dab-8c41-4fb2-b630-fb06e5e24fe8" />
+
+## Delivery 
+<img width="1727" height="906" alt="image" src="https://github.com/user-attachments/assets/f6b1aa3a-a78c-47dc-81d0-074a322f0bb3" />
+<img width="1685" height="428" alt="image" src="https://github.com/user-attachments/assets/795f3689-3733-4202-bd75-0d3e85b87db3" />
 
 ## Order History
 <img width="1730" height="699" alt="image" src="https://github.com/user-attachments/assets/9fdd7ddb-f699-4ca3-86a4-11f76f3f1579" />
@@ -39,6 +49,31 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for mana
 
 ## My Wishlist
 <img width="1751" height="861" alt="image" src="https://github.com/user-attachments/assets/e62d21a6-addb-45d9-9514-1a4faa34e710" />
+
+## 4. Admin dashboard
+<img width="1768" height="864" alt="image" src="https://github.com/user-attachments/assets/0795f941-b98a-45e3-9c0a-82981fb5aed9" />
+<img width="1693" height="549" alt="image" src="https://github.com/user-attachments/assets/103ea668-817c-44d4-a266-a23e51aa2df5" />
+## Manage Products
+<img width="1868" height="895" alt="image" src="https://github.com/user-attachments/assets/c95d3f77-c246-4261-8982-13ccd65182ad" />
+
+## Invenory Manegement
+<img width="1801" height="776" alt="image" src="https://github.com/user-attachments/assets/9ee53c0e-6172-4759-8619-9c82d6dc3fc9" />
+<img width="1719" height="813" alt="image" src="https://github.com/user-attachments/assets/d394faa0-486b-4466-8826-13da30e90439" />
+<img width="1733" height="878" alt="image" src="https://github.com/user-attachments/assets/c7b9c81b-9f60-4ffd-b305-2209f75e573d" />
+<img width="1778" height="807" alt="image" src="https://github.com/user-attachments/assets/6324ee4f-465e-4676-99cf-b966b3c23df3" />
+
+## Supplier Management
+<img width="1777" height="808" alt="image" src="https://github.com/user-attachments/assets/6a3be438-02cb-4936-b508-2b5985818c93" />
+<img width="1608" height="819" alt="image" src="https://github.com/user-attachments/assets/0061271a-034d-4f16-afcb-558115d30923" />
+<img width="1648" height="510" alt="image" src="https://github.com/user-attachments/assets/70bd6b6c-acc4-46db-a62b-0cab46e91d55" />
+
+## Services 
+<img width="1791" height="659" alt="image" src="https://github.com/user-attachments/assets/c49df0d4-ce51-4fe6-a540-57e2b87ba5cb" />
+<img width="844" height="789" alt="image" src="https://github.com/user-attachments/assets/15036c6d-d702-44fa-843e-1fcddcad8f32" />
+<img width="837" height="415" alt="image" src="https://github.com/user-attachments/assets/3ec2fae2-022a-4cc1-a63a-5f77e4d2f605" />
+
+
+
 
 
 
