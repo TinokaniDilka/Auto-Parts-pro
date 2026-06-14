@@ -25,6 +25,20 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) web application for mana
 <img width="1824" height="902" alt="image" src="https://github.com/user-attachments/assets/c794d486-9b9b-49aa-a130-1a2269634c2d" />
 <img width="1790" height="857" alt="image" src="https://github.com/user-attachments/assets/48655074-935d-456f-9239-c276cef0c987" />
 <img width="1779" height="730" alt="image" src="https://github.com/user-attachments/assets/1f76685a-0bff-4509-8a89-d85620ecf493" />
+<img width="1793" height="728" alt="image" src="https://github.com/user-attachments/assets/b1458fc3-c354-4c66-8baa-4e3c0f0a783a" />
+
+## My Orders
+<img width="1751" height="861" alt="image" src="https://github.com/user-attachments/assets/06c36fa1-1d13-4090-8882-ff9060bf729a" />
+## Order History
+<img width="1730" height="699" alt="image" src="https://github.com/user-attachments/assets/9fdd7ddb-f699-4ca3-86a4-11f76f3f1579" />
+
+## My Bookings
+<img width="1773" height="840" alt="image" src="https://github.com/user-attachments/assets/c53829c3-1d97-464d-9523-e355de708dbd" />
+
+## My Wishlist
+<img width="1751" height="861" alt="image" src="https://github.com/user-attachments/assets/e62d21a6-addb-45d9-9514-1a4faa34e710" />
+
+
 
 ## Modules
 
